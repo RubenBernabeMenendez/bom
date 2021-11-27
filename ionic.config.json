@@ -1,0 +1,7 @@
+{
+  "name": "bom",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
